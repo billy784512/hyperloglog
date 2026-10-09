@@ -1,0 +1,13 @@
+[project]
+name = "py"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "billy784512", email = "billy784512369@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "mmh3>=5.3.1",
+]
+
